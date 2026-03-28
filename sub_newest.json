@@ -1,0 +1,16 @@
+[
+  {
+    "id": "trend_003",
+    "title": "French Classic",
+    "colorName": "Classic French",
+    "category": "sub_newest",
+    "nailColor": 4294957553,
+    "gradientColors": [
+      4294957553,
+      4294967295
+    ],
+    "imageUrl": "https://loremflickr.com/400/600/nailart,french?lock=5",
+    "isPremium": false,
+    "order": 1
+  }
+]
