@@ -1,0 +1,24 @@
+[
+  {
+    "id": "feat_001",
+    "title": "Rose Quartz Bloom",
+    "colorName": "Rose Quartz",
+    "category": "cat_featured",
+    "nailColor": 4294951115,
+    "gradientColors": null,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,pink?lock=1",
+    "isPremium": true,
+    "order": 1
+  },
+  {
+    "id": "feat_002",
+    "title": "Golden Geometry",
+    "colorName": "Gold",
+    "category": "cat_featured",
+    "nailColor": 4294956800,
+    "gradientColors": null,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,gold?lock=2",
+    "isPremium": true,
+    "order": 2
+  }
+]
