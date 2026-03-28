@@ -1,0 +1,24 @@
+[
+  {
+    "id": "trend_001",
+    "title": "Lavender Mist",
+    "colorName": "Lavender",
+    "category": "sub_trending",
+    "nailColor": 4293322490,
+    "gradientColors": null,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,lavender?lock=3",
+    "isPremium": false,
+    "order": 1
+  },
+  {
+    "id": "trend_004",
+    "title": "Emerald Swirl",
+    "colorName": "Emerald",
+    "category": "sub_trending",
+    "nailColor": 4283484280,
+    "gradientColors": null,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,emerald?lock=6",
+    "isPremium": false,
+    "order": 2
+  }
+]
