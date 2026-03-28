@@ -1,0 +1,49 @@
+[
+  {
+    "id": "trend_001",
+    "title": "Lavender Mist",
+    "colorName": "Lavender",
+    "category": "sub_all",
+    "nailColor": 4293322490,
+    "gradientColors": null,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,lavender?lock=3",
+    "isPremium": false,
+    "order": 1
+  },
+  {
+    "id": "trend_002",
+    "title": "Pearl Glaze",
+    "colorName": "Pearl White",
+    "category": "sub_all",
+    "nailColor": 4294309365,
+    "gradientColors": null,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,white?lock=4",
+    "isPremium": false,
+    "order": 2
+  },
+  {
+    "id": "trend_003",
+    "title": "French Classic",
+    "colorName": "Classic French",
+    "category": "sub_all",
+    "nailColor": 4294957553,
+    "gradientColors": [
+      4294957553,
+      4294967295
+    ],
+    "imageUrl": "https://loremflickr.com/400/600/nailart,french?lock=5",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "trend_004",
+    "title": "Emerald Swirl",
+    "colorName": "Emerald",
+    "category": "sub_all",
+    "nailColor": 4283484280,
+    "gradientColors": null,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,emerald?lock=6",
+    "isPremium": false,
+    "order": 4
+  }
+]
