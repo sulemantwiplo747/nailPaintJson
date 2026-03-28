@@ -1,1 +1,29 @@
-
+[
+  {
+    "id": "cat_featured",
+    "name": "Featured Designs",
+    "sub_categories": []
+  },
+  {
+    "id": "cat_trending_latest",
+    "name": "Trending & Latest",
+    "sub_categories": [
+      {
+        "id": "sub_all",
+        "name": "All"
+      },
+      {
+        "id": "sub_trending",
+        "name": "Trending"
+      },
+      {
+        "id": "sub_newest",
+        "name": "Newest"
+      },
+      {
+        "id": "sub_minimal",
+        "name": "Minimal"
+      }
+    ]
+  }
+]
