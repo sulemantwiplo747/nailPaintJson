@@ -2,6 +2,7 @@
   {
     "id": "trend_001",
     "title": "Lavender Mist",
+    "description": "Soft lavender tones with a gentle misty shimmer—lightweight, calming, and perfect for everyday elegance.",
     "colorName": "Lavender",
     "category": "sub_trending",
     "nailColor": 4293322490,
@@ -13,6 +14,7 @@
   {
     "id": "trend_004",
     "title": "Emerald Swirl",
+    "description": "Rich emerald color with a smooth swirling vibe—bold, luxurious, and effortlessly eye-catching.",
     "colorName": "Emerald",
     "category": "sub_trending",
     "nailColor": 4283484280,
