@@ -2,6 +2,7 @@
   {
     "id": "trend_001",
     "title": "Lavender Mist",
+    "description": "Soft lavender base with a gentle misty shimmer—light, calming, and perfect for everyday elegance.",
     "colorName": "Lavender",
     "category": "sub_all",
     "nailColor": 4293322490,
@@ -13,6 +14,7 @@
   {
     "id": "trend_002",
     "title": "Pearl Glaze",
+    "description": "Pearly, soft-finish elegance with a smooth glazed look—clean shine that makes your manicure feel polished.",
     "colorName": "Pearl White",
     "category": "sub_all",
     "nailColor": 4294309365,
@@ -24,6 +26,7 @@
   {
     "id": "trend_003",
     "title": "French Classic",
+    "description": "A timeless French-inspired style with crisp contrast and a refined finish—subtle, flattering, and always in trend.",
     "colorName": "Classic French",
     "category": "sub_all",
     "nailColor": 4294957553,
@@ -38,6 +41,7 @@
   {
     "id": "trend_004",
     "title": "Emerald Swirl",
+    "description": "Bold emerald tones with a smooth swirling effect—luxurious, vibrant, and effortlessly eye-catching.",
     "colorName": "Emerald",
     "category": "sub_all",
     "nailColor": 4283484280,
