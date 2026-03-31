@@ -1,0 +1,24 @@
+[
+  {
+    "id": "party_1",
+    "title": "Neon Disco",
+    "description": "Vibrant colors that glow under blacklight.",
+    "colorName": "Neon Pink",
+    "category": "Party",
+    "nailColor": 4294901978,
+    "imageUrl": "https://images.unsplash.com/photo-1599387737923-380590835f10?q=80&w=500",
+    "isPremium": true,
+    "order": 1
+  },
+  {
+    "id": "party_2",
+    "title": "Gold Dust",
+    "description": "Chunky gold glitter on a dark base.",
+    "colorName": "Black & Gold",
+    "category": "Party",
+    "nailColor": 4278190080,
+    "imageUrl": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=500",
+    "isPremium": false,
+    "order": 2
+  }
+]
