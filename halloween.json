@@ -1,0 +1,24 @@
+[
+  {
+    "id": "halloween_1",
+    "title": "Spooky Night",
+    "description": "Matte black with glowing pumpkin orange.",
+    "colorName": "Black & Orange",
+    "category": "Halloween",
+    "nailColor": 4278190080,
+    "imageUrl": "https://images.unsplash.com/photo-1599387737923-380590835f10?q=80&w=500",
+    "isPremium": false,
+    "order": 1
+  },
+  {
+    "id": "halloween_2",
+    "title": "Blood Drip",
+    "description": "Deep red tips on a nude base.",
+    "colorName": "Crimson",
+    "category": "Halloween",
+    "nailColor": 4286578688,
+    "imageUrl": "https://images.unsplash.com/photo-1621333100643-982f6e919864?q=80&w=500",
+    "isPremium": true,
+    "order": 2
+  }
+]
