@@ -1,68 +1,24 @@
 [
   {
     "id": "acrylic_1",
-    "title": "Classic White",
-    "description": "Timeless elegance",
-    "colorName": "White",
+    "title": "Classic Nude",
+    "description": "Smooth nude acrylic with a high gloss finish.",
+    "colorName": "Nude",
     "category": "Acrylic",
-    "nailColor": 4294967295,
-    "imageUrl": "assets/images/floral.png",
+    "nailColor": 4293051084,
+    "imageUrl": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=500",
     "isPremium": false,
     "order": 1
   },
   {
     "id": "acrylic_2",
-    "title": "Pastel Pink Tips",
-    "description": "Soft & romantic",
-    "colorName": "Pink",
+    "title": "Pink Marble",
+    "description": "Artistic marble effect with baby pink and white.",
+    "colorName": "Pink Marble",
     "category": "Acrylic",
-    "nailColor": 4294158223,
-    "imageUrl": "assets/images/french.png",
-    "isPremium": false,
+    "nailColor": 4294406323,
+    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "isPremium": true,
     "order": 2
-  },
-  {
-    "id": "acrylic_3",
-    "title": "Floral Accents",
-    "description": "Spring variation",
-    "colorName": "White",
-    "category": "Acrylic",
-    "nailColor": 4294967295,
-    "imageUrl": "assets/images/marbel.png",
-    "isPremium": false,
-    "order": 3
-  },
-  {
-    "id": "acrylic_4",
-    "title": "Double French",
-    "description": "Contemporary style",
-    "colorName": "White",
-    "category": "Acrylic",
-    "nailColor": 4294967295,
-    "imageUrl": "assets/images/geometric.png",
-    "isPremium": false,
-    "order": 4
-  },
-  {
-    "id": "acrylic_5",
-    "title": "Chrome French",
-    "description": "High-shine finish",
-    "colorName": "White",
-    "category": "Acrylic",
-    "nailColor": 4294967295,
-    "imageUrl": "assets/images/gold_foil.png",
-    "isPremium": false,
-    "order": 5
-  },
-  {
-    "id": "acrylic_6",
-    "title": "Micro French",
-    "description": "Minimalist chic",
-    "colorName": "White",
-    "category": "Acrylic",
-    "nailColor": 4294967295,
-    "imageUrl": "assets/images/minimal_dot.png",
-    "isPremium": false,
-    "order": 6
   }
 ]
