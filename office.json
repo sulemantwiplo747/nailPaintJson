@@ -1,0 +1,24 @@
+[
+  {
+    "id": "office_1",
+    "title": "Professional Grey",
+    "description": "Sophisticated charcoal for the workplace.",
+    "colorName": "Charcoal Grey",
+    "category": "Office",
+    "nailColor": 4282664004,
+    "imageUrl": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=500",
+    "isPremium": false,
+    "order": 1
+  },
+  {
+    "id": "office_2",
+    "title": "Corporate Beige",
+    "description": "Clean and understated beige.",
+    "colorName": "Beige",
+    "category": "Office",
+    "nailColor": 4293845710,
+    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "isPremium": false,
+    "order": 2
+  }
+]
