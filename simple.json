@@ -1,0 +1,24 @@
+[
+  {
+    "id": "simple_1",
+    "title": "Nude Minimalist",
+    "description": "A clean, natural look for everyday wear.",
+    "colorName": "Nude",
+    "category": "Simple",
+    "nailColor": 4293051084,
+    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "isPremium": false,
+    "order": 1
+  },
+  {
+    "id": "simple_2",
+    "title": "Soft Lavender",
+    "description": "Pastel lavender for a gentle touch.",
+    "colorName": "Lavender",
+    "category": "Simple",
+    "nailColor": 4291807210,
+    "imageUrl": "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?q=80&w=500",
+    "isPremium": false,
+    "order": 2
+  }
+]
