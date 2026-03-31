@@ -1,0 +1,24 @@
+[
+  {
+    "id": "french_1",
+    "title": "Classic French Tip",
+    "description": "Elegant white tips on a natural pink base.",
+    "colorName": "White & Pink",
+    "category": "French",
+    "nailColor": 4294967295,
+    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "isPremium": false,
+    "order": 1
+  },
+  {
+    "id": "french_2",
+    "title": "Modern French",
+    "description": "Thin white lines with a gloss finish.",
+    "colorName": "Cream",
+    "category": "French",
+    "nailColor": 4294967295,
+    "imageUrl": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=500",
+    "isPremium": true,
+    "order": 2
+  }
+]
